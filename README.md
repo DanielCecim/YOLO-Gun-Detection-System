@@ -3,6 +3,7 @@
 Real-time firearm detection system trained on surveillance and general gun imagery using YOLOv11s fine-tuned on multiple datasets.
 
 ---
+![Detection example](detection_example.png)
 
 ## Model
 
